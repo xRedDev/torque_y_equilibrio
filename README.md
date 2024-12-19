@@ -31,6 +31,8 @@ Para ejecutar la aplicación "Equilibrium App", necesitarás tener instalado Pyt
 2. Navega hasta la carpeta del proyecto: `cd equilibrium-app`
 3. Ejecuta la aplicación: `python main.py` o `flet run main.py`
 
+> **Descargar ejecutable**: Dirigirse hasta el drive donde está la carpeta con los ejecutables y sus versiones. [Link](https://drive.google.com/file/d/1P7TbJZWDg0hgv0yAb6U7vp1g9MN1Bfw8/view?usp=drive_link)
+
 ## Uso
 
 Una vez que la aplicación se haya ejecutado, verás la interfaz de usuario principal. Aquí puedes seleccionar el modo de uso que deseas: "Modo Normal", "Modo Custom" o "Teoría". (en desarrollo los que no son el Modo Normal)
