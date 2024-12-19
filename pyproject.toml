@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "first-flet-app"
+version = "0.1.0"
+description = ""
+authors = ["BEYOND BIRTHDAY <167260422+xRedDev@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+flet = "^0.25.2"
+fluentflet = "^0.2.2a1"
+pillow = "^11.0.0"
+pandas = "^2.2.3"
+matplotlib = "^3.10.0"
+pywin32 = "^308"
+asyncio = "^3.4.3"
+config-py = "^0.1.1"
+xlsxwriter = "^3.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.flet]
+assets = ["equilibrium_app/assets/fonts/"]
+

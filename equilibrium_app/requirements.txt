@@ -1,0 +1,3 @@
+flet==0.22.*
+fluentflet>=0.2.2a1
+pillow>=11.0.0
